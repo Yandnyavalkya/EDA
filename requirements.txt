@@ -2,3 +2,4 @@ google-genai
 python-dotenv
 db-sqlite3
 
+# install requirements.txt 
